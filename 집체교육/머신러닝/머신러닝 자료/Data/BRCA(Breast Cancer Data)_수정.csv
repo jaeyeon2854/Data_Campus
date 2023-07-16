@@ -1,0 +1,322 @@
+﻿Patient_ID,Age,Gender,Protein1,Protein2,Protein3,Protein4,Tumour_Stage,Histology,ER status,PR status,HER2 status,Surgery_type,Date_of_Surgery,Date_of_Last_Visit,Patient_Status
+TCGA-D8-A1XD,36,1,0.08,0.43,0.55,0.27,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,15-Jan-17,19-Jun-17,1
+TCGA-EW-A1OX,43,1,-0.42,0.58,0.61,-0.03,2,Mucinous Carcinoma,1,1,0,Lumpectomy,26-Apr-17,09-Nov-18,0
+TCGA-A8-A079,69,1,0.21,1.31,-0.33,-0.23,3,Infiltrating Ductal Carcinoma,1,1,0,Other,08-Sep-17,09-Jun-18,1
+TCGA-D8-A1XR,56,1,0.35,-0.21,-0.19,0.12,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,25-Jan-17,12-Jul-17,1
+TCGA-BH-A0BF,56,1,0.22,1.91,0.52,-0.31,2,Infiltrating Ductal Carcinoma,1,1,0,Other,06-May-17,27-Jun-19,0
+TCGA-AO-A1KQ,84,0,-0.08,1.72,-0.06,0.04,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,18-Sep-17,15-Nov-21,1
+TCGA-D8-A73X,53,1,-0.07,1.42,-0.36,0.39,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,04-Feb-17,07-Feb-18,1
+TCGA-EW-A1P5,77,1,-0.15,-0.66,1.19,0.22,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,28-Sep-17,28-Sep-18,1
+TCGA-A8-A09A,40,1,-0.57,1.27,-0.29,0.19,2,Infiltrating Lobular Carcinoma,1,1,1,Other,14-Feb-17,15-Dec-17,1
+TCGA-S3-A6ZG,71,1,-0.22,0.51,-0.35,-0.84,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,26-May-17,19-Dec-17,1
+TCGA-BH-A0EA,72,1,-0.37,0.56,-0.67,-0.35,2,Infiltrating Ductal Carcinoma,1,1,0,Other,08-Oct-17,13-Sep-18,0
+TCGA-AC-A8OR,75,1,0.17,0.03,-0.16,0.67,1,Infiltrating Lobular Carcinoma,1,1,0,Simple Mastectomy,24-Feb-17,05-Apr-17,1
+TCGA-A2-A0ES,52,1,-1.68,0.73,0.06,-1.24,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,05-Jun-17,02-Mar-20,1
+TCGA-C8-A8HQ,53,1,0.56,0.82,-0.53,0.27,2,Mucinous Carcinoma,1,1,0,Modified Radical Mastectomy,18-Oct-17,28-Apr-20,1
+TCGA-AO-A03V,41,1,0.14,1.08,0.21,0.97,1,Infiltrating Lobular Carcinoma,1,1,0,Simple Mastectomy,06-Mar-17,09-Aug-19,1
+TCGA-A2-A0D4,37,1,0.29,1.36,0.69,0.41,2,Mucinous Carcinoma,1,1,0,Lumpectomy,15-Jun-17,24-Oct-18,1
+TCGA-EW-A1PA,59,1,0.2,1.07,-0.21,0.63,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,28-Oct-17,22-Jul-18,1
+TCGA-BH-A0DE,62,1,0.1,0.7,-0.3,0.6,2,Infiltrating Ductal Carcinoma,1,1,0,Other,16-Mar-17,20-Oct-19,0
+TCGA-E2-A1B4,74,1,-0.25,1.5,-0.3,0.66,3,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,25-Jun-17,23-Dec-19,1
+TCGA-AC-A3HN,87,1,-0.09,1.11,-0.57,1.22,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,07-Nov-17,28-Nov-17,1
+TCGA-A8-A095,45,1,-0.6,-0.34,0.44,0.75,1,Infiltrating Ductal Carcinoma,1,1,0,Other,26-Mar-17,23-Sep-20,1
+TCGA-A2-A4S0,77,1,-0.3,-0.16,0.46,-0.4,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,17-Nov-17,15-Aug-18,1
+TCGA-A7-A3J0,62,1,0.54,1.79,-0.57,-0.02,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,05-Apr-17,20-Jun-17,1
+TCGA-AC-A62Y,79,1,-0.04,0.8,-0.01,1.63,2,Mucinous Carcinoma,1,1,1,Modified Radical Mastectomy,17-Nov-17,11-Jan-18,0
+TCGA-A7-A5ZW,47,1,0.33,-0.33,0,1.17,2,Mucinous Carcinoma,1,1,0,Lumpectomy,27-Nov-17,10-Apr-18,0
+TCGA-A2-A25C,50,1,-0.06,1.61,-0.47,-0.04,2,Infiltrating Lobular Carcinoma,1,1,0,Simple Mastectomy,15-Apr-17,25-Jan-18,1
+TCGA-D8-A1JC,59,1,-0.33,1.44,-0.61,-0.35,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,27-Nov-17,24-May-18,1
+TCGA-A7-A4SB,56,1,1.04,1.76,-0.76,0.98,3,Infiltrating Ductal Carcinoma,1,1,1,Lumpectomy,07-Dec-17,25-Jun-18,1
+TCGA-AR-A24S,61,1,-0.23,1.79,-0.76,0.74,1,Infiltrating Ductal Carcinoma,1,1,0,Other,25-Apr-17,26-Jun-22,1
+TCGA-D8-A4Z1,68,1,0.65,1.42,-0.4,1.18,1,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,07-Dec-17,18-Jul-18,0
+TCGA-A7-A26J,49,1,-0.28,0.72,-0.17,0.55,2,Infiltrating Lobular Carcinoma,1,1,0,Simple Mastectomy,17-Dec-17,23-Feb-18,1
+TCGA-AC-A5XS,74,1,0.59,0.95,-0.5,0.97,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,05-May-17,21-Jun-17,1
+TCGA-OL-A6VR,48,1,0.23,1.21,0.05,-0.02,1,Infiltrating Lobular Carcinoma,1,1,0,Simple Mastectomy,17-Dec-17,13-Apr-20,1
+TCGA-EW-A1PF,50,1,-0.08,2.62,0.05,-0.04,1,Infiltrating Ductal Carcinoma,1,1,0,Other,27-Dec-17,16-May-18,1
+TCGA-LL-A7SZ,49,1,0.06,1.31,-0.1,0.75,2,Infiltrating Lobular Carcinoma,1,1,0,Other,15-May-17,01-Nov-17,1
+TCGA-BH-A18K,46,1,-0.55,2.08,0.42,-0.81,1,Infiltrating Ductal Carcinoma,1,1,0,Other,27-Dec-17,02-Dec-18,0
+TCGA-AC-A3OD,68,1,-0.35,1.37,-0.24,0.19,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,06-Jan-18,10-Feb-18,1
+TCGA-BH-A8FY,87,1,0.71,2.17,-0.44,-0.39,1,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,25-May-17,15-Jan-18,0
+TCGA-C8-A26Z,59,1,0.28,0.9,-0.61,0.53,2,Infiltrating Ductal Carcinoma,1,1,0,Other,06-Jan-18,10-Jan-18,1
+TCGA-A2-A1G4,71,1,-0.95,0.74,-0.26,-0.21,3,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,16-Jan-18,23-Jan-19,1
+TCGA-BH-A18F,50,1,0.22,-0.22,1.09,0.15,2,Infiltrating Lobular Carcinoma,1,1,0,Other,04-Jun-17,27-Feb-18,1
+TCGA-E2-A1IG,45,1,0.43,1.26,-0.72,-1.16,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,16-Jan-18,10-Feb-20,1
+TCGA-AC-A2B8,84,1,0.15,1.49,-0.93,-0.02,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,26-Jan-18,12-Mar-18,0
+TCGA-BH-A0BT,56,1,-0.23,1.31,-0.59,0.09,2,Infiltrating Ductal Carcinoma,1,1,0,Other,14-Jun-17,12-Sep-20,1
+TCGA-AO-A125,72,1,-0.42,0.38,0.42,-0.09,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,26-Jan-18,03-May-26,0
+TCGA-A8-A07E,81,1,0.82,1.85,-0.8,-0.79,2,Infiltrating Lobular Carcinoma,1,1,0,Other,05-Feb-18,06-Oct-19,1
+TCGA-A8-A08A,89,1,-0.25,-0.35,-0.1,0.76,1,Infiltrating Ductal Carcinoma,1,1,0,Other,24-Jun-17,24-Jul-17,1
+TCGA-A2-A0EX,46,1,0.23,0.88,0.02,0.86,2,Infiltrating Ductal Carcinoma,1,1,1,Lumpectomy,05-Feb-18,09-Aug-19,1
+TCGA-A8-A093,61,1,-1.49,0.35,-0.66,0.19,2,Infiltrating Ductal Carcinoma,1,1,0,Other,15-Feb-18,15-Aug-19,1
+TCGA-E2-A1L6,44,1,0.24,0.45,0.04,-0.38,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,04-Jul-17,05-Feb-21,1
+TCGA-3C-AAAU,55,1,-0.66,1.94,-0.78,-0.26,2,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,15-Feb-18,23-Mar-20,1
+TCGA-E2-A1IL,78,1,0.21,0.69,0.12,0.61,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,25-Feb-18,11-Mar-18,1
+TCGA-A2-A0CO,85,1,0.75,1.76,-1.01,-0.06,2,Infiltrating Ductal Carcinoma,1,1,1,Modified Radical Mastectomy,14-Jul-17,27-Aug-18,1
+TCGA-BH-A0E7,79,1,0.73,1.58,-0.16,-0.26,2,Infiltrating Lobular Carcinoma,1,1,0,Other,25-Feb-18,15-Oct-20,1
+TCGA-EW-A6SC,60,1,0.21,1.53,-0.41,0,2,Infiltrating Lobular Carcinoma,1,1,0,Lumpectomy,07-Mar-18,14-Oct-20,1
+TCGA-D8-A1X7,40,1,0.51,0.94,0.16,-0.53,2,Infiltrating Lobular Carcinoma,1,1,0,Simple Mastectomy,24-Jul-17,17-Oct-17,1
+TCGA-D8-A1XM,57,1,0,0.21,-0.16,0.37,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,07-Mar-18,11-Oct-18,1
+TCGA-A1-A0SF,54,1,-0.28,0.61,-0.47,0.62,2,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,17-Mar-18,23-Jun-19,1
+TCGA-EW-A1J5,59,1,0.36,1.19,-0.42,0.42,2,Infiltrating Lobular Carcinoma,1,1,0,Other,03-Aug-17,18-Mar-18,1
+TCGA-BH-A0AY,62,1,0.07,1.24,0.07,-0.36,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,17-Mar-18,02-May-20,1
+TCGA-E2-A15G,76,1,0.04,-0.4,0.47,1.05,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,27-Mar-18,06-Feb-19,1
+TCGA-A8-A09B,58,1,-0.33,0.88,-0.8,0.32,3,Infiltrating Ductal Carcinoma,1,1,0,Other,13-Aug-17,13-Aug-18,1
+TCGA-BH-A0HF,77,1,-0.21,0.58,-0.25,0,1,Infiltrating Lobular Carcinoma,1,1,0,Other,27-Mar-18,23-Mar-20,1
+TCGA-BH-A0GY,67,1,-0.75,0.95,-0.81,0.21,2,Infiltrating Ductal Carcinoma,1,1,0,Other,06-Apr-18,09-Oct-20,0
+TCGA-BH-A0BD,47,1,0.12,0.79,-0.2,0.35,2,Infiltrating Lobular Carcinoma,1,1,0,Other,23-Aug-17,28-Feb-19,0
+TCGA-E2-A1IF,74,1,-0.03,2.28,0.01,-0.54,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,06-Apr-18,17-Nov-20,1
+TCGA-A8-A08Z,76,1,-0.16,-0.54,0.79,0.62,2,Infiltrating Ductal Carcinoma,1,1,0,Other,16-Apr-18,19-Oct-20,1
+TCGA-D8-A146,57,1,0.13,-0.5,0.98,0.62,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,02-Sep-17,12-Aug-18,1
+TCGA-AR-A252,50,1,0.14,1.83,-0.77,-0.28,1,Infiltrating Ductal Carcinoma,1,1,0,Other,16-Apr-18,21-Apr-20,1
+TCGA-D8-A1JJ,54,1,0,1.38,-0.5,-0.51,2,Infiltrating Ductal Carcinoma,1,1,0,Other,26-Apr-18,25-Jan-19,0
+TCGA-C8-A274,63,1,0.38,1.49,0.11,0.76,2,Infiltrating Ductal Carcinoma,1,1,0,Other,12-Sep-17,04-May-18,1
+TCGA-GM-A2DO,54,1,0.1,-0.6,0.48,0.95,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,26-Apr-18,09-Jan-20,1
+TCGA-BH-A0H6,82,1,-0.98,-0.5,0.66,-0.72,1,Infiltrating Ductal Carcinoma,1,1,0,Other,06-May-18,22-May-20,0
+TCGA-BH-A0H7,65,1,0.44,0.77,0.49,0.37,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,22-Sep-17,25-Aug-19,1
+TCGA-A8-A09T,68,1,-0.83,1.69,-0.13,-0.18,2,Infiltrating Ductal Carcinoma,1,1,0,Other,06-May-18,06-Dec-19,0
+TCGA-D8-A1JS,77,1,-0.06,0.67,-0.42,0.17,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,16-May-18,29-Aug-18,1
+TCGA-BH-A0B0,56,1,-0.26,0.81,-0.51,-0.03,1,Infiltrating Ductal Carcinoma,1,1,0,Other,02-Oct-17,26-Jul-20,1
+TCGA-A8-A096,73,1,0.45,2.3,0.01,0.61,2,Infiltrating Lobular Carcinoma,1,1,0,Other,16-May-18,21-Apr-19,0
+TCGA-D8-A1XC,85,1,0.4,0.49,0.84,0.62,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,26-May-18,15-Aug-18,1
+TCGA-E2-A154,68,1,-0.12,1.64,-0.28,-0.3,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,12-Oct-17,02-Sep-18,1
+TCGA-D8-A1JU,51,1,0.15,0.32,-0.6,-0.96,1,Infiltrating Lobular Carcinoma,1,1,0,Simple Mastectomy,26-May-18,09-Sep-18,1
+TCGA-AR-A24W,55,1,0.01,1.31,-0.59,0.15,2,Infiltrating Ductal Carcinoma,1,1,0,Other,05-Jun-18,07-Dec-19,1
+TCGA-B6-A40C,51,1,0.01,1.4,0.12,-2.03,2,Mucinous Carcinoma,1,1,0,Simple Mastectomy,22-Oct-17,26-Aug-19,1
+TCGA-A8-A09Q,83,1,-2.14,-0.18,-0.2,-1.49,3,Infiltrating Ductal Carcinoma,1,1,1,Other,05-Jun-18,05-Jul-20,1
+TCGA-AN-A049,62,1,0.68,0.5,0.02,0.29,2,Infiltrating Ductal Carcinoma,1,1,1,Simple Mastectomy,15-Jun-18,04-Jul-18,1
+TCGA-E9-A54X,85,1,0.54,0.28,-0.11,0.24,1,Mucinous Carcinoma,1,1,0,Lumpectomy,01-Nov-17,06-Dec-18,1
+TCGA-A8-A082,58,1,-1.27,0.11,1.14,-0.39,2,Infiltrating Ductal Carcinoma,1,1,0,Other,15-Jun-18,16-Dec-19,1
+TCGA-D8-A1X6,80,1,0.47,2.58,-1.25,0.15,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,25-Jun-18,16-Feb-19,1
+TCGA-A2-A0YL,48,1,-0.22,-0.29,0.87,-0.24,3,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,11-Nov-17,06-Aug-18,0
+TCGA-A8-A09K,68,1,-0.26,0.86,0.08,0.19,2,Infiltrating Lobular Carcinoma,1,1,0,Other,25-Jun-18,23-Dec-20,0
+TCGA-AO-A0JD,59,1,0.48,0.63,-0.7,-0.16,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,05-Jul-18,25-Sep-20,1
+TCGA-E2-A14Q,50,1,1.59,1.68,-0.04,0.94,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,21-Nov-17,22-Jul-20,1
+TCGA-GM-A2DN,58,1,0.35,1.53,-0.57,0.47,2,Mucinous Carcinoma,1,1,0,Modified Radical Mastectomy,05-Jul-18,22-Jun-19,1
+TCGA-A2-A0T5,39,1,0.55,2,-0.14,-1.07,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,15-Jul-18,01-Jun-19,1
+TCGA-A7-A0CJ,57,1,-0.21,-0.63,1.02,0.2,2,Infiltrating Ductal Carcinoma,1,1,1,Lumpectomy,01-Dec-17,08-Jun-18,1
+TCGA-AN-A03Y,66,1,-0.45,0.42,-0.03,0.18,2,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,15-Jul-18,25-Jul-18,1
+TCGA-BH-A42V,41,1,0.1,-0.47,0.47,-0.52,1,Infiltrating Ductal Carcinoma,1,1,1,Modified Radical Mastectomy,25-Jul-18,23-Apr-19,1
+TCGA-A2-A0CZ,46,1,-0.64,0.05,-0.2,0.66,2,Infiltrating Ductal Carcinoma,1,1,1,Simple Mastectomy,25-Jul-18,11-Dec-18,1
+TCGA-A2-A0D3,42,1,-0.18,0.29,1.13,-0.38,1,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,04-Aug-18,09-Aug-20,1
+TCGA-E9-A6HE,45,1,-0.53,0.76,-0.56,-0.5,3,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,21-Dec-17,23-Mar-18,1
+TCGA-D8-A27T,53,1,0.01,-0.68,0.54,0.72,3,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,04-Aug-18,18-Dec-18,1
+TCGA-E2-A1IK,71,1,0.13,0.81,0.51,-0.1,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,14-Aug-18,15-Jan-20,1
+TCGA-BH-A0B1,66,1,0.14,1.3,-0.34,-1.77,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,31-Dec-17,21-Feb-21,0
+TCGA-BH-A0DX,62,1,0.37,0.78,-0.57,-0.96,1,Infiltrating Ductal Carcinoma,1,1,0,Other,14-Aug-18,06-Dec-20,1
+TCGA-EW-A1OY,63,1,-0.52,1.76,-0.37,0.01,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,24-Aug-18,08-Apr-20,1
+TCGA-OK-A5Q2,59,1,-0.47,2.23,-0.21,-0.24,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,10-Jan-18,15-Mar-18,1
+TCGA-C8-A1HG,50,1,0.06,1.67,-0.42,0.3,2,Infiltrating Lobular Carcinoma,1,1,0,Other,24-Aug-18,13-Oct-18,1
+TCGA-EW-A1J1,38,1,-0.63,2.3,0.11,-1.04,2,Infiltrating Lobular Carcinoma,1,1,0,Lumpectomy,03-Sep-18,12-Jun-19,1
+TCGA-A2-A0CY,63,1,-0.83,-0.23,0.64,0.03,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,03-Sep-18,14-Mar-22,1
+TCGA-BH-A28O,50,1,0.13,-0.49,0.32,-0.56,3,Infiltrating Ductal Carcinoma,1,1,0,Other,13-Sep-18,03-Aug-19,1
+TCGA-AR-A0U3,59,1,0.32,2.05,-0.35,-1.15,2,Infiltrating Ductal Carcinoma,1,1,0,Other,30-Jan-18,04-Jun-24,0
+TCGA-BH-A0AZ,47,1,0.58,0.94,-0.23,0.37,3,Infiltrating Lobular Carcinoma,1,1,0,Other,13-Sep-18,27-Jan-21,0
+TCGA-E2-A15A,45,1,0.18,0.59,-0.51,0.4,3,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,23-Sep-18,07-Feb-20,0
+TCGA-C8-A12N,58,1,-0.55,0.31,-0.59,-0.37,2,Infiltrating Ductal Carcinoma,1,1,0,Other,09-Feb-18,09-Feb-18,0
+TCGA-BH-A0E2,49,1,-0.2,0.27,-0.45,0.32,3,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,23-Sep-18,04-Oct-19,0
+TCGA-D8-A27P,64,1,-0.97,-0.77,0.56,-0.72,1,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,03-Oct-18,26-Oct-18,0
+TCGA-AO-A0J8,61,1,0.67,2.19,-1.1,-0.83,2,Infiltrating Lobular Carcinoma,1,1,0,Lumpectomy,19-Feb-18,23-Nov-18,1
+TCGA-E2-A1IN,60,1,-0.1,1.37,-0.87,0.04,1,Infiltrating Lobular Carcinoma,1,1,0,Lumpectomy,03-Oct-18,30-Oct-19,1
+TCGA-GM-A5PX,65,1,-0.54,2.6,-0.69,0,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,19-Feb-18,24-Aug-19,1
+TCGA-AO-A03R,57,1,0.05,1.51,0.77,0.19,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,01-Mar-18,06-Feb-20,1
+TCGA-A2-A0EV,80,1,-0.02,0.92,-0.03,0.27,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,13-Oct-18,10-Apr-20,1
+TCGA-A8-A09M,75,1,-1.97,-0.63,0.04,-0.47,3,Infiltrating Ductal Carcinoma,1,1,0,Other,01-Mar-18,01-Jun-19,1
+TCGA-A8-A09V,51,1,-0.85,1.68,1.7,-0.08,2,Infiltrating Ductal Carcinoma,1,1,0,Other,11-Mar-18,11-Jun-19,0
+TCGA-D8-A27K,47,1,-0.19,1.98,-0.01,0.04,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,23-Oct-18,19-Feb-19,0
+TCGA-C8-A26V,47,1,-0.53,1.12,0.44,0.62,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,11-Mar-18,20-Mar-18,0
+TCGA-AO-A03M,29,1,-0.11,0.94,-0.62,0.19,1,Infiltrating Lobular Carcinoma,1,1,0,Simple Mastectomy,21-Mar-18,15-Mar-22,0
+TCGA-AN-A0FF,32,1,0.13,1.46,-0.68,-0.01,1,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,02-Nov-18,23-Apr-19,0
+TCGA-EW-A1PE,56,1,-0.93,0.7,-0.6,-1.9,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,21-Mar-18,06-Jul-18,0
+TCGA-D8-A27I,58,1,0.36,1.52,-0.31,0.44,3,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,31-Mar-18,03-Oct-18,0
+TCGA-D8-A1XO,56,1,-0.07,-0.51,0.52,0.78,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,12-Nov-18,12-Jul-19,0
+TCGA-EW-A1J6,70,1,1.07,1,-0.59,0.49,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,31-Mar-18,16-Nov-19,1
+TCGA-D8-A1JP,73,1,-0.1,1.86,-0.29,-0.35,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,10-Apr-18,24-Sep-18,1
+TCGA-LD-A7W6,54,1,0.33,-0.29,1.77,0.77,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,22-Nov-18,11-Apr-19,1
+TCGA-A8-A07G,65,1,-0.44,1.49,-1.11,-0.25,2,Infiltrating Lobular Carcinoma,1,1,0,Other,10-Apr-18,08-Nov-19,1
+TCGA-D8-A1JH,56,1,-0.35,1.88,-0.37,0.47,1,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,20-Apr-18,29-Jan-19,1
+TCGA-BH-A0E9,53,1,-0.85,-0.01,-0.38,-0.81,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,02-Dec-18,11-Jan-20,1
+TCGA-BH-A0B5,40,1,0.09,2.2,-0.99,-0.38,3,Infiltrating Ductal Carcinoma,1,1,1,Modified Radical Mastectomy,20-Apr-18,04-Aug-19,1
+TCGA-AR-A24M,38,1,-0.27,0.2,-1.02,0.1,3,Infiltrating Ductal Carcinoma,1,1,0,Other,30-Apr-18,07-Nov-18,1
+TCGA-E9-A227,42,1,0.23,1.75,-0.54,-0.39,2,Infiltrating Ductal Carcinoma,1,1,1,Lumpectomy,12-Dec-18,05-Jan-19,1
+TCGA-AO-A12H,69,1,0.3,-0.31,1.07,-0.18,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,30-Apr-18,09-Sep-20,1
+TCGA-BH-A2L8,45,1,-0.53,0.72,-0.68,-0.84,2,Infiltrating Lobular Carcinoma,1,1,0,Other,10-May-18,25-Oct-18,1
+TCGA-BH-A0C1,61,1,-0.76,0.06,-0.21,-1.24,3,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,22-Dec-18,26-Nov-19,1
+TCGA-A7-A26E,71,1,0.42,-0.25,-0.24,-0.21,3,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,10-May-18,05-Jul-19,1
+TCGA-BH-A0DQ,42,1,0.95,2.15,0.01,-0.05,2,Infiltrating Ductal Carcinoma,1,1,0,Other,20-May-18,26-Aug-18,1
+TCGA-5L-AAT0,42,1,-0.45,-0.72,-0.11,-0.03,2,Infiltrating Ductal Carcinoma,1,1,1,Modified Radical Mastectomy,01-Jan-19,22-Apr-20,1
+TCGA-A8-A06P,63,1,-0.49,0.89,-0.47,-0.21,3,Infiltrating Ductal Carcinoma,1,1,0,Other,20-May-18,20-Jun-19,1
+TCGA-A8-A0A4,73,1,-0.22,0.95,0.32,-0.8,2,Infiltrating Ductal Carcinoma,1,1,0,Other,30-May-18,30-Jun-19,1
+TCGA-BH-AB28,53,1,-0.35,1.41,-0.38,-0.04,3,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,11-Jan-19,15-Jul-19,1
+TCGA-AQ-A54O,51,0,0.84,0.51,-0.55,0.31,2,Infiltrating Lobular Carcinoma,1,1,0,Simple Mastectomy,30-May-18,25-Mar-20,1
+TCGA-C8-A273,29,1,0,0.89,-0.68,-0.18,2,Infiltrating Ductal Carcinoma,1,1,0,Other,09-Jun-18,15-Jun-18,1
+TCGA-A2-A1FZ,63,1,0.9,1.97,-0.79,0.96,2,Infiltrating Lobular Carcinoma,1,1,0,Simple Mastectomy,21-Jan-19,06-Mar-20,0
+TCGA-LL-A6FQ,77,1,-0.16,1.45,-0.76,0.73,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,09-Jun-18,28-Aug-18,1
+TCGA-Z7-A8R6,46,1,0.23,1.93,-0.33,-0.6,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,19-Jun-18,27-Aug-20,1
+TCGA-A8-A07W,76,1,-0.86,-0.12,0.07,0.75,3,Infiltrating Lobular Carcinoma,1,1,1,Other,31-Jan-19,01-Dec-19,0
+TCGA-C8-A27A,48,1,-0.38,-0.47,0.57,-0.31,2,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,19-Jun-18,25-Jun-19,1
+TCGA-AO-A126,39,1,-0.2,1.1,-0.05,-0.05,2,Infiltrating Lobular Carcinoma,1,1,0,Simple Mastectomy,29-Jun-18,26-Oct-20,1
+TCGA-A2-A4RX,67,1,0.01,0.6,0.07,-0.85,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,10-Feb-19,11-Nov-19,1
+TCGA-A2-A0CV,41,1,0.67,-0.63,0.01,0.56,2,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,29-Jun-18,15-Nov-20,1
+TCGA-BH-A18L,50,1,-0.16,2.15,-0.85,0.54,3,Infiltrating Ductal Carcinoma,1,1,0,Other,09-Jul-18,19-Apr-20,0
+TCGA-D8-A1JE,62,1,0.46,0.74,-0.63,-0.06,2,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,20-Feb-19,18-Apr-19,1
+TCGA-A8-A086,59,1,0.01,1.48,0.32,0.32,2,Infiltrating Lobular Carcinoma,1,1,0,Other,09-Jul-18,09-Aug-19,1
+TCGA-AO-A0JA,36,1,0.47,1.55,-0.17,-0.28,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,19-Jul-18,30-Jun-19,1
+TCGA-GM-A2DL,50,1,-0.25,0.32,-0.51,-0.81,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,02-Mar-19,24-Sep-26,1
+TCGA-AC-A3W6,90,1,-1.39,0.78,0.29,-0.92,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,19-Jul-18,08-Sep-18,1
+TCGA-AR-A1AK,70,1,0.7,0.97,-0.3,0.11,1,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,29-Jul-18,04-Nov-22,1
+TCGA-E2-A1IU,60,1,-0.12,1.15,0.54,0.75,1,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,12-Mar-19,17-Jul-19,1
+TCGA-AR-A0U2,47,1,0.52,2.65,-0.1,-0.05,3,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,29-Jul-18,,0
+TCGA-BH-A0HO,48,1,0.23,1.21,-0.46,-0.55,2,Infiltrating Lobular Carcinoma,1,1,0,Other,08-Aug-18,23-Oct-18,1
+TCGA-A7-A56D,84,1,-0.23,1.13,0.17,1.18,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,22-Mar-19,15-Sep-19,1
+TCGA-D8-A1JI,54,1,-0.42,1.27,-0.73,-0.83,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,08-Aug-18,29-Aug-18,1
+TCGA-EW-A1J2,50,1,0.34,0.65,-0.77,0.41,3,Infiltrating Ductal Carcinoma,1,1,0,Other,18-Aug-18,05-Jan-19,0
+TCGA-AQ-A7U7,55,1,0.4,0.86,-0.97,-0.06,3,Infiltrating Lobular Carcinoma,1,1,0,Other,01-Apr-19,30-Jan-20,1
+TCGA-C8-A12W,49,1,-1.25,2.67,-0.54,-1.11,3,Infiltrating Ductal Carcinoma,1,1,0,Other,18-Aug-18,25-Aug-18,1
+TCGA-AC-A3BB,46,1,0.14,-0.76,0.73,0.82,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,28-Aug-18,27-Sep-18,1
+TCGA-A8-A092,48,1,-0.64,-0.59,-0.11,-1.6,3,Infiltrating Ductal Carcinoma,1,1,0,Other,11-Apr-19,10-Aug-20,1
+TCGA-BH-A0DK,49,1,-0.29,0.66,-0.1,-0.94,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,28-Aug-18,25-Oct-19,1
+TCGA-E2-A14T,52,1,1.09,2.77,-0.56,-0.48,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,07-Sep-18,13-Feb-21,1
+TCGA-A2-A1FV,74,1,-0.21,-0.98,-1.06,-0.84,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,21-Apr-19,25-Jul-20,1
+TCGA-D8-A1JD,41,1,-0.07,-0.27,0.47,-1.22,2,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,17-Sep-18,17-Jun-19,1
+TCGA-BH-A0W7,49,1,-0.12,-0.95,0.75,-0.68,1,Infiltrating Ductal Carcinoma,1,1,0,Other,01-May-19,09-Nov-20,1
+TCGA-A8-A0AD,83,1,-0.39,1.48,0.14,0.64,1,Infiltrating Ductal Carcinoma,1,1,0,Other,17-Sep-18,21-Feb-19,1
+TCGA-A7-A3RF,79,1,-0.48,-0.32,0.47,0.35,2,Infiltrating Ductal Carcinoma,1,1,1,Lumpectomy,27-Sep-18,20-Nov-18,1
+TCGA-AR-A24V,52,1,0.45,0.82,-0.44,-0.01,2,Infiltrating Ductal Carcinoma,1,1,0,Other,11-May-19,14-Nov-23,1
+TCGA-AR-A1AN,46,1,0.53,-0.62,-0.55,0.39,2,Infiltrating Ductal Carcinoma,1,1,0,Other,27-Sep-18,19-May-22,1
+TCGA-AO-A03O,69,1,-0.76,-0.34,0.56,0.21,2,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,07-Oct-18,,0
+TCGA-A2-A0EW,53,1,-0.63,0.26,-0.2,-1.31,3,Infiltrating Lobular Carcinoma,1,1,1,Simple Mastectomy,21-May-19,25-May-20,1
+TCGA-BH-A0DH,63,1,-0.56,0.48,0.08,0.61,2,Infiltrating Ductal Carcinoma,1,1,1,Other,07-Oct-18,01-Nov-20,1
+TCGA-A8-A08O,45,1,-0.46,0.85,0.25,-0.55,3,Infiltrating Lobular Carcinoma,1,1,1,Other,17-Oct-18,29-Oct-20,1
+TCGA-W8-A86G,66,1,0.5,1.87,0.04,0.24,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,31-May-19,08-Nov-19,1
+TCGA-LD-A7W5,52,1,0.78,2.29,-0.44,-0.05,3,Infiltrating Ductal Carcinoma,1,1,1,Lumpectomy,17-Oct-18,18-Feb-19,1
+TCGA-E2-A15M,66,1,-0.72,-0.28,0.96,0.35,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,27-Oct-18,19-Jun-19,1
+TCGA-BH-A0BP,76,1,-0.25,0.61,0.13,0.39,1,Infiltrating Ductal Carcinoma,1,1,0,Other,27-Oct-18,20-Feb-20,1
+TCGA-D8-A27L,49,1,-0.06,-0.87,0.87,0.32,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,06-Nov-18,12-Mar-19,1
+TCGA-E2-A153,51,1,-0.48,1.79,-0.15,-0.31,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,20-Jun-19,26-Jan-21,1
+TCGA-AO-A03T,42,1,0.17,1.3,-0.86,-0.24,2,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,06-Nov-18,03-Mar-19,1
+TCGA-AO-A03N,59,1,0.28,-0.88,1.3,-0.69,2,Mucinous Carcinoma,1,1,0,Modified Radical Mastectomy,16-Nov-18,22-Aug-20,1
+TCGA-D8-A141,40,1,0.72,1,0.13,-0.62,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,30-Jun-19,21-Oct-19,1
+TCGA-A8-A08F,59,1,0.54,-0.87,-0.59,-0.95,3,Infiltrating Ductal Carcinoma,1,1,0,Other,16-Nov-18,18-May-20,1
+TCGA-AC-A5XU,74,1,0.97,1.43,-0.37,-0.11,2,Infiltrating Lobular Carcinoma,1,1,0,Lumpectomy,26-Nov-18,05-Dec-18,1
+TCGA-B6-A401,47,1,-0.2,0.63,-0.28,-0.48,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,10-Jul-19,15-Jan-20,1
+TCGA-GM-A3XN,44,1,0.96,0.82,-0.31,-0.15,3,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,06-Dec-18,07-Sep-20,1
+TCGA-A2-A4RW,49,1,-0.14,2.32,-0.71,0.72,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,20-Jul-19,27-Feb-20,1
+TCGA-BH-A0DV,54,1,0.51,1.69,-0.14,1.02,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,06-Dec-18,15-Dec-19,1
+TCGA-WT-AB44,77,1,0.48,0.82,-0.41,-0.65,1,Infiltrating Lobular Carcinoma,1,1,0,Lumpectomy,16-Dec-18,14-Feb-21,1
+TCGA-A8-A0A2,66,1,-0.33,1.61,0.38,0.12,2,Infiltrating Ductal Carcinoma,1,1,0,Other,07-Oct-18,08-May-20,1
+TCGA-A8-A07J,35,1,-0.82,1.79,-1.04,0.04,2,Infiltrating Lobular Carcinoma,1,1,0,Other,17-Oct-18,17-Oct-19,1
+TCGA-HN-A2OB,45,1,-0.71,1.69,-0.8,0.79,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,31-May-19,22-Aug-20,1
+TCGA-EW-A1IY,38,1,0.29,0.46,-0.68,0.49,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,17-Oct-18,02-Jul-19,1
+TCGA-AO-A12B,63,1,0.18,0.44,-0.25,-0.37,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,27-Oct-18,13-Jul-19,1
+TCGA-A2-A4S3,59,1,0.72,2.19,0.39,0.95,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,10-Jun-19,22-Sep-19,1
+TCGA-AC-A6NO,43,1,0.44,1.41,-0.93,0.12,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,27-Oct-18,17-Dec-18,1
+TCGA-A8-A07Z,85,1,0.41,0.33,-0.26,-0.65,2,Infiltrating Ductal Carcinoma,1,1,0,Other,06-Nov-18,17-Jan-21,1
+TCGA-D8-A1XB,62,1,0.79,0.81,0.42,-0.14,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,06-Nov-18,26-May-19,1
+TCGA-BH-A0HQ,56,1,-0.59,0.22,-0.31,-1.6,2,Infiltrating Ductal Carcinoma,1,1,0,Other,06-Nov-18,27-Oct-20,1
+TCGA-BH-A0HI,78,1,-0.88,0.13,-0.37,0.13,1,Infiltrating Ductal Carcinoma,1,1,0,Other,16-Nov-18,28-Jul-20,1
+TCGA-BH-A0DO,78,1,-0.17,1.39,-1.31,-1.26,1,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,26-Nov-18,04-May-20,1
+TCGA-A2-A3KD,47,1,0.29,1.4,0.24,-0.4,3,Infiltrating Lobular Carcinoma,1,1,1,Lumpectomy,16-Nov-18,28-Jan-21,1
+TCGA-BH-A0BA,51,1,0.19,2.66,1.2,0.19,3,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,26-Nov-18,01-Oct-20,0
+TCGA-AN-A046,68,1,-0.58,1.33,0.08,-0.4,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,06-Dec-18,16-Dec-18,0
+TCGA-A2-A0T7,51,1,-0.38,0.81,-1.63,-0.51,2,Infiltrating Ductal Carcinoma,1,1,1,Modified Radical Mastectomy,26-Nov-18,28-Dec-19,1
+TCGA-E2-A15F,64,1,-0.34,0.79,-0.47,-0.46,1,Infiltrating Lobular Carcinoma,1,1,0,Lumpectomy,06-Dec-18,19-Mar-20,1
+TCGA-BH-A0DT,41,1,0.06,0.76,0.28,-1.71,2,Infiltrating Lobular Carcinoma,1,1,0,Other,16-Dec-18,24-Jan-21,1
+TCGA-D8-A3Z5,54,1,-0.82,-0.64,1.34,-0.43,3,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,06-Dec-18,20-Feb-20,1
+TCGA-AR-A1AS,54,1,0.43,2.45,0.33,0.63,2,Infiltrating Ductal Carcinoma,1,1,0,Other,16-Dec-18,26-Sep-20,0
+TCGA-BH-A0EI,51,1,0.57,2.01,-1.18,0.29,2,Infiltrating Lobular Carcinoma,1,1,0,Other,26-Dec-18,07-Jan-21,1
+TCGA-E2-A108,64,1,0.42,1.61,-0.52,0.94,3,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,16-Dec-18,19-Apr-19,1
+TCGA-D8-A3Z6,56,1,0.33,1.86,-1.08,0.34,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,26-Dec-18,29-Jun-19,0
+TCGA-A8-A0A6,64,1,-0.34,-0.64,1.66,-0.42,3,Infiltrating Ductal Carcinoma,1,1,0,Other,05-Jan-19,06-Oct-20,1
+TCGA-GM-A3XG,46,1,0.77,0.52,-0.16,0.14,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,26-Dec-18,15-Feb-21,1
+TCGA-E2-A1L9,40,1,0.34,1.72,0.44,-0.34,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,05-Jan-19,28-Jan-20,0
+TCGA-EW-A1P3,48,1,-0.34,0.16,-0.18,0.41,2,Mucinous Carcinoma,1,1,0,Simple Mastectomy,15-Jan-19,02-Dec-20,1
+TCGA-BH-A0BO,54,1,-0.59,1.51,1.06,0.1,1,Infiltrating Ductal Carcinoma,1,1,0,Other,05-Jan-19,08-Feb-21,1
+TCGA-AQ-A1H3,49,1,-0.58,-0.33,-0.13,-1.24,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,15-Jan-19,26-Jun-19,1
+TCGA-A8-A09D,47,1,-0.36,1.11,0.31,-0.57,2,Infiltrating Ductal Carcinoma,1,1,0,Other,25-Jan-19,25-Feb-20,1
+TCGA-A1-A0SD,59,1,0.02,1.4,0.02,0.28,2,Infiltrating Ductal Carcinoma,1,1,1,Lumpectomy,15-Jan-19,27-Mar-20,1
+TCGA-E9-A5FK,60,1,0.21,-0.56,1.24,0.97,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,25-Jan-19,06-Feb-19,0
+TCGA-GM-A3NY,72,1,0.42,1.21,-0.81,0.94,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,04-Feb-19,16-Feb-21,1
+TCGA-A1-A0SE,56,1,0.46,1.18,-0.57,0.37,1,Mucinous Carcinoma,1,1,0,Modified Radical Mastectomy,25-Jan-19,13-Feb-21,1
+TCGA-A8-A07L,58,1,-0.48,0.43,-0.59,0.65,3,Infiltrating Lobular Carcinoma,1,1,0,Other,04-Feb-19,06-Jul-20,1
+TCGA-A2-A0CL,37,1,-1.15,0.96,0.28,0.25,3,Infiltrating Ductal Carcinoma,1,1,1,Modified Radical Mastectomy,14-Feb-19,09-May-20,1
+TCGA-EW-A1PC,66,1,0.29,1.4,0.32,0.84,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,04-Feb-19,10-Aug-19,0
+TCGA-BH-A0DS,71,1,0.36,1.98,-0.01,0.55,3,Infiltrating Ductal Carcinoma,1,1,0,Other,14-Feb-19,03-May-19,0
+TCGA-D8-A73U,88,1,0.2,0.53,-0.85,-0.71,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,24-Feb-19,30-Jun-20,1
+TCGA-AO-A0JF,68,1,-0.42,0.76,0.44,0.2,2,Infiltrating Lobular Carcinoma,1,1,0,Lumpectomy,14-Feb-19,03-Feb-20,0
+TCGA-AR-A24Z,57,1,0.19,1.67,0.39,0.7,2,Infiltrating Ductal Carcinoma,1,1,0,Other,24-Feb-19,19-May-20,0
+TCGA-A1-A0SQ,45,1,-0.28,1.43,-0.58,0.22,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,06-Mar-19,10-Sep-20,0
+TCGA-AO-A12E,51,1,0.09,-0.64,2.19,-0.84,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,24-Feb-19,05-Dec-20,1
+TCGA-E9-A54Y,63,1,-0.6,1.12,-0.61,-0.58,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,06-Mar-19,15-May-19,1
+TCGA-Z7-A8R5,61,1,0.38,1.65,0.57,0.35,3,Infiltrating Lobular Carcinoma,1,1,1,Other,16-Mar-19,16-Nov-19,1
+TCGA-BH-A0BJ,41,1,-0.06,2.06,0.05,-0.21,2,Infiltrating Lobular Carcinoma,1,1,0,Other,06-Mar-19,25-Dec-20,1
+TCGA-AO-A0JB,50,1,-0.7,0.2,0.54,-0.02,3,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,16-Mar-19,04-May-21,0
+TCGA-BH-A0DP,60,1,0.29,1.78,-0.09,0.57,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,26-Mar-19,14-Jul-20,0
+TCGA-A8-A07F,65,1,-0.44,0.61,-0.4,0.33,2,Infiltrating Ductal Carcinoma,1,1,0,Other,16-Mar-19,13-Oct-20,0
+TCGA-BH-A8G0,54,1,0.75,1.64,-0.33,0.86,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,26-Mar-19,11-Oct-19,0
+TCGA-A1-A0SI,52,1,0.46,1.36,-0.54,0.14,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,05-Apr-19,30-Dec-20,1
+TCGA-D8-A1XU,56,1,-0.31,-0.4,0.76,0.09,1,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,26-Mar-19,23-Aug-19,1
+TCGA-BH-A18S,79,1,0.98,1.71,-0.66,0.27,1,Infiltrating Ductal Carcinoma,1,1,0,Other,05-Apr-19,,0
+TCGA-A8-A0A1,84,1,0.84,2.03,-0.63,0.57,2,Infiltrating Lobular Carcinoma,1,1,0,Other,15-Apr-19,14-Apr-20,1
+TCGA-D8-A1J8,77,1,-0.53,0.17,0.12,-0.43,2,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,05-Apr-19,17-Dec-19,1
+TCGA-GM-A2DM,57,1,0.36,1.58,-0.47,1.04,2,Infiltrating Lobular Carcinoma,1,1,0,Lumpectomy,15-Apr-19,11-Mar-20,1
+TCGA-EW-A1IX,48,1,0.33,1.76,0.18,0.79,2,Infiltrating Lobular Carcinoma,1,1,0,Other,25-Apr-19,03-Feb-21,1
+TCGA-A8-A0A9,80,1,-0.31,2.22,-0.56,0.52,2,Infiltrating Ductal Carcinoma,1,1,0,Other,15-Apr-19,15-May-20,1
+TCGA-AR-A1AV,68,0,1.47,0.47,0.14,-0.29,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,25-Apr-19,18-Apr-20,1
+TCGA-BH-A0H0,69,1,-0.49,2.38,-0.47,0.1,1,Infiltrating Ductal Carcinoma,1,1,0,Other,05-May-19,08-Aug-20,1
+TCGA-A8-A09R,82,1,0.66,1.55,-0.83,0.28,2,Infiltrating Ductal Carcinoma,1,1,0,Other,25-Apr-19,23-Jan-20,1
+TCGA-AR-A24H,65,1,0,0.81,-0.33,-0.06,2,Infiltrating Lobular Carcinoma,1,1,0,Other,05-May-19,02-Apr-20,0
+TCGA-BH-A0DI,63,1,0.05,1.45,-0.02,0.43,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,15-May-19,03-Feb-21,1
+TCGA-E2-A1BC,63,1,-0.04,1.09,-0.42,-0.31,1,Infiltrating Ductal Carcinoma,1,1,1,Simple Mastectomy,05-May-19,26-Feb-20,1
+TCGA-GI-A2C8,63,1,0.05,0.72,-0.31,-0.53,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,15-May-19,26-Dec-19,0
+TCGA-AR-A24O,43,1,0.61,1.71,0.15,-0.27,3,Infiltrating Lobular Carcinoma,1,1,1,Modified Radical Mastectomy,25-May-19,18-May-20,1
+TCGA-BH-A0BC,60,1,-0.73,0.47,-0.49,-0.22,3,Infiltrating Lobular Carcinoma,1,1,0,Other,15-May-19,19-Mar-21,1
+TCGA-D8-A27V,62,1,-0.38,1,-0.64,-0.54,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,25-May-19,06-Aug-19,1
+TCGA-EW-A2FV,39,1,-0.15,1.27,0.21,-0.47,3,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,04-Jun-19,29-Jan-20,1
+TCGA-EW-A1IZ,53,1,0.27,1.68,-0.18,0.47,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,25-May-19,09-Feb-20,1
+TCGA-BH-A18N,88,1,-0.6,1.38,0.4,0.27,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,04-Jun-19,,0
+TCGA-BH-A0HX,54,1,-1.38,1.66,-0.16,-0.41,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,14-Jun-19,04-Mar-21,1
+TCGA-XX-A89A,68,1,0.43,0.36,-0.35,-0.08,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,24-Jun-19,09-Feb-20,1
+TCGA-C8-A1HM,74,1,-0.27,1.27,0.38,-0.01,2,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,14-Jun-19,20-Jun-19,1
+TCGA-A2-A4S2,62,1,0.28,0.88,-0.51,-0.02,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,24-Jun-19,15-Jan-20,1
+TCGA-XX-A899,46,1,0,1.2,-0.41,0.53,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,04-Jul-19,21-Apr-20,1
+TCGA-A2-A4RY,46,1,0.1,-0.42,-0.19,0.05,3,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,24-Jun-19,18-Mar-20,1
+TCGA-A2-A0YI,62,1,0.07,1.3,0.25,-0.31,1,Mucinous Carcinoma,1,1,0,Lumpectomy,04-Jul-19,26-Jun-20,1
+TCGA-E2-A10C,54,1,0.78,-0.84,1.51,0.82,2,Infiltrating Lobular Carcinoma,1,1,0,Lumpectomy,14-Jul-19,22-Feb-21,1
+TCGA-D8-A13Y,52,1,-0.18,1.53,-0.16,0.83,1,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,04-Jul-19,24-Mar-20,1
+TCGA-A2-A0CK,60,1,0.25,2.3,0.53,0.05,3,Infiltrating Ductal Carcinoma,1,1,1,Lumpectomy,14-Jul-19,12-Oct-20,1
+TCGA-E2-A15P,61,1,0.19,-0.16,-0.56,-0.6,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,24-Jul-19,03-Jun-20,1
+TCGA-AR-A24R,45,1,0,1.63,0.13,-1.45,3,Infiltrating Ductal Carcinoma,1,1,0,Other,14-Jul-19,01-Nov-20,1
+TCGA-BH-A5J0,63,1,0.28,2.26,-0.01,0.57,1,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,24-Jul-19,05-Mar-20,1
+TCGA-A8-A06Q,63,1,0.29,0.81,1.07,-0.15,3,Infiltrating Ductal Carcinoma,1,1,0,Other,03-Aug-19,03-Sep-19,1
+TCGA-A7-A3J1,63,1,0.2,-0.04,0.78,0.62,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,24-Jul-19,07-Oct-19,1
+TCGA-A2-A0YH,53,1,0.29,3.4,-0.33,0.22,3,Infiltrating Lobular Carcinoma,1,1,0,Lumpectomy,03-Aug-19,16-Aug-20,1
+TCGA-A7-A6VX,68,1,-0.06,-0.46,0.16,-0.74,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,13-Aug-19,29-Jan-20,1
+TCGA-A8-A08I,53,1,-0.36,2.66,0.31,0.2,2,Infiltrating Ductal Carcinoma,1,1,0,Other,03-Aug-19,02-Aug-20,1
+TCGA-EW-A2FW,52,1,0.2,2.18,-0.66,0.81,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,13-Aug-19,20-Feb-20,1
+TCGA-AO-A0JC,64,1,-0.24,1.69,-0.13,-1.34,2,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,13-Aug-19,26-Jan-21,1
+TCGA-AO-A0J7,71,1,0.69,0.37,0.78,0.94,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,23-Aug-19,10-May-20,1
+TCGA-BH-A0BZ,59,1,-0.41,0.04,0.22,-0.04,3,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,02-Sep-19,28-Sep-20,1
+TCGA-EW-A423,75,1,0.51,2.71,-0.33,0.39,2,Infiltrating Lobular Carcinoma,1,1,0,Lumpectomy,23-Aug-19,27-Jun-20,1
+TCGA-A2-A04Y,53,1,-0.09,1.03,-0.48,-0.25,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,02-Sep-19,10-Dec-20,1
+TCGA-A2-A0T6,50,1,-0.33,1.99,-0.04,0.25,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,12-Sep-19,21-Aug-20,1
+TCGA-A8-A06Y,66,1,-1.34,1.13,-0.23,-0.23,2,Infiltrating Ductal Carcinoma,1,1,0,Other,02-Sep-19,10-Jan-21,1
+TCGA-AR-A2LN,65,1,-0.09,0.05,0.03,-0.59,2,Infiltrating Ductal Carcinoma,1,1,0,Other,12-Sep-19,13-Feb-21,1
+TCGA-LD-A66U,44,1,0.89,0.44,0.11,0.16,2,Infiltrating Ductal Carcinoma,1,1,0,Modified Radical Mastectomy,22-Sep-19,31-May-20,1
+TCGA-E2-A156,61,1,-0.41,2.75,-0.6,0.82,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,12-Sep-19,05-Jan-21,1
+TCGA-AO-A0JJ,54,1,-1.23,-0.77,0.86,0.24,2,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,22-Sep-19,15-Feb-21,1
+TCGA-E2-A14Z,64,1,0.98,2.48,-0.51,0.67,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,02-Oct-19,03-Feb-21,1
+TCGA-A2-A0SU,66,1,-0.37,1.92,-0.8,-0.06,2,Infiltrating Lobular Carcinoma,1,1,0,Simple Mastectomy,22-Sep-19,08-Sep-20,1
+TCGA-A7-A13G,79,1,-1.06,1.17,-0.66,-0.09,2,Infiltrating Lobular Carcinoma,1,1,0,Simple Mastectomy,02-Oct-19,27-Apr-20,1
+TCGA-BH-A0BR,59,1,0.45,1.4,-0.23,0.8,1,Infiltrating Lobular Carcinoma,1,1,0,Other,12-Oct-19,19-Jan-21,1
+TCGA-BH-A0HU,52,1,0.24,1.73,0.33,1.04,1,Infiltrating Ductal Carcinoma,1,1,0,Other,12-Oct-19,07-Nov-20,1
+TCGA-AO-A1KP,77,1,0.34,1.32,0.59,0.35,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,22-Oct-19,09-Feb-21,1
+TCGA-AR-A2LQ,59,1,0.15,1.27,0.64,0.26,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,12-Oct-19,01-Feb-21,1
+TCGA-BH-A0BV,78,1,-0.92,-0.65,0.55,0.46,2,Infiltrating Lobular Carcinoma,1,1,0,Modified Radical Mastectomy,22-Oct-19,24-Mar-21,1
+TCGA-AO-A1KO,46,1,-0.74,-0.74,0.72,0.72,2,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,01-Nov-19,22-Jan-21,1
+TCGA-E2-A1B5,46,1,-0.06,-0.51,0.89,-0.09,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,22-Oct-19,09-Feb-21,0
+TCGA-AR-A1AL,60,1,0.09,1,-0.23,0.05,3,Infiltrating Ductal Carcinoma,1,1,0,Simple Mastectomy,01-Nov-19,28-Feb-21,0
+TCGA-AN-A04A,36,1,0.23,0.62,-0.56,-0.52,3,Infiltrating Ductal Carcinoma,1,1,1,Simple Mastectomy,11-Nov-19,09-Feb-20,0
+TCGA-A8-A085,44,0,0.73,1.11,-0.27,-0.35,2,Infiltrating Lobular Carcinoma,1,1,0,Other,01-Nov-19,04-Mar-20,0
+TCGA-A1-A0SG,61,1,-0.72,2.55,-0.15,0.34,2,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,11-Nov-19,18-Jan-21,0
+TCGA-A2-A0EU,79,1,0.48,2.06,-0.53,-0.19,1,Infiltrating Ductal Carcinoma,1,1,1,Lumpectomy,21-Nov-19,19-Feb-21,0
+TCGA-B6-A40B,76,1,-0.24,0.93,-0.42,-0.07,1,Infiltrating Ductal Carcinoma,1,1,0,Lumpectomy,11-Nov-19,05-Jan-21,0
